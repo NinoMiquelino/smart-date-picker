@@ -264,31 +264,31 @@ Funciona automaticamente com as classes dark do Tailwind:
 
 ✅ Validações de Formato
 
-· Padrão DD/MM/AAAA exato
-· Apenas números e barras
+· Padrão DD/MM/AAAA exato<b>
+· Apenas números e barras<br>
 · Comprimento correto (10 caracteres)
 
 ✅ Validações de Conteúdo
 
-· Dias: 01-31 (respeitando o mês)
-· Meses: 01-12
-· Anos: 1900-2100
-· Fevereiro: 28/29 dias (anos bissextos)
+· Dias: 01-31 (respeitando o mês)<br>
+· Meses: 01-12<br>
+· Anos: 1900-2100<br>
+· Fevereiro: 28/29 dias (anos bissextos)<br>
 · Meses 30/31 dias: Respeitados corretamente
 
 ✅ Validações de Lógica
 
-· Datas inexistentes: 31/04/2024 → Erro
-· Anos bissextos: 29/02/2024 → Válido
+· Datas inexistentes: 31/04/2024 → Erro<br>
+· Anos bissextos: 29/02/2024 → Válido<br>
 · Limites: Respeita minDate e maxDate
 
 📱 Responsividade
 
 Mobile-First Design
 
-· Touch targets grandes (44px mínimo)
-· Teclado numérico em dispositivos móveis
-· Layout adaptativo para diferentes telas
+· Touch targets grandes (44px mínimo)<br>
+· Teclado numérico em dispositivos móveis<br>
+· Layout adaptativo para diferentes telas<br>
 · Gestos touch otimizados
 
 Breakpoints
@@ -324,7 +324,7 @@ picker.setValue(new Date(2024, 1, 31)); // 31 de fevereiro → deve dar erro
 
 Backspace não funciona:
 
-· ✅ Corrigido na versão atual
+· ✅ Corrigido na versão atual<br>
 · Funciona livremente através das barras
 
 Debug
@@ -344,19 +344,19 @@ const picker = new SmartDatePicker({
 
 Navegadores Suportados
 
-· Chrome 60+
-· Firefox 55+
-· Safari 12+
-· Edge 79+
-· Mobile Safari 12+
+· Chrome 60+<br>
+· Firefox 55+<br>
+· Safari 12+<br>
+· Edge 79+<br>
+· Mobile Safari 12+<br>
 · Chrome Mobile 60+
 
 Funcionalidades Modernas
 
-· ES6 Classes
-· CSS Grid
-· Flexbox
-· CSS Custom Properties
+· ES6 Classes<br>
+· CSS Grid<br>
+· Flexbox<br>
+· CSS Custom Properties<br>
 · Arrow Functions
 
 📦 Estrutura do Projeto
