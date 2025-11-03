@@ -6,7 +6,7 @@
   <strong>Onivaldo Miquelino</strong>
   <br>
   <a href="https://github.com/ninomiquelino">@ninomiquelino</a>
-  <br>
+  <br><br>
   <span>Desenvolvido com foco na experiência do usuário brasileiro.</span>
 </div>
 
