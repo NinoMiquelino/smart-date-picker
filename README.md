@@ -264,7 +264,7 @@ Funciona automaticamente com as classes dark do Tailwind:
 
 ✅ Validações de Formato
 
-· Padrão DD/MM/AAAA exato<b>
+· Padrão DD/MM/AAAA exato<br>
 · Apenas números e barras<br>
 · Comprimento correto (10 caracteres)
 
